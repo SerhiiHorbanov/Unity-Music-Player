@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f54ab34be90feff44b544e4f260acc32, type: 3}
+  m_Name: Desperate
+  m_EditorClassIdentifier: 
+  musicName: Desperate
+  artistName: Tokyo machine, Neffex
+  audioClip: {fileID: 8300000, guid: 98615e15c0d1b1b48bf71d520a9e45f2, type: 3}
